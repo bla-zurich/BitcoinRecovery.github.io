@@ -1,2 +1,0 @@
-# BitcoinRecovery.github.io
-BitcoinRecovery
